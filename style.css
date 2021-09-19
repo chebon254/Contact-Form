@@ -117,7 +117,7 @@ input{
     margin: 0px 26px 0px 0px;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
 }
 input:focus{
     color: #2e4149;
@@ -132,7 +132,7 @@ input:focus{
     margin: 0px 26px 0px 0px;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
 }
 .message:focus{
     color: #2e4149;
@@ -149,7 +149,7 @@ button{
     background-color: #2e4149;
     font-size: 14px;
     font-weight: 500;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     color: #ffffff;
     float: right;
     transition: transform .2s;
@@ -253,7 +253,7 @@ footer .col{
 .col h4{
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     color: #241f20;
     margin: 0px 0px 10px 0px;
 }
@@ -262,7 +262,7 @@ footer .col{
     text-decoration: none;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     color: #241f20;
     cursor: pointer;
 }
@@ -273,7 +273,7 @@ footer .col{
 .col-3 a{
     font-size: 30px;
     font-weight: 800;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     color: #241f20;
     text-decoration: none;
     margin: 0px 16px;
@@ -285,7 +285,7 @@ footer .col{
 #footer-logo{
     font-size: 30px;
     font-weight: 800;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     color: #241f20;
     text-decoration: none;
 }
@@ -301,7 +301,7 @@ footer .col{
     box-sizing: border-box;
     padding: 10px 0px;
     font-size: 14px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     color: #241f20;
 }
